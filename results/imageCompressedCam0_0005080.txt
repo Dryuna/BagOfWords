@@ -1,0 +1,5 @@
+Query image: /imageCompressedCam0_0005080
+Similar images were found
+Similar images are:
+1) /home/olga/Documents/Work/BagOfWords/train/imageCompressedCam0_0005080.png 0.981603
+2) /home/olga/Documents/Work/BagOfWords/train/imageCompressedCam0_0004550.png 0.635474
